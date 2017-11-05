@@ -17,7 +17,7 @@ copy:
   noSupport: 浏览器不支持
 
 page:
-  Articles: 文章总览
+  articles: 文章总览
   Tag: 标签
   Category: 分类 
 
