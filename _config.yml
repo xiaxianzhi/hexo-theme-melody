@@ -98,9 +98,9 @@ cdn:
 
 # Post info settings
 # ---------------
-avatar: 
+avatar: https://s.gravatar.com/avatar/b0fbab9cff099273770591ecaf3b83ec?s=80 
 
-top_img: true # false or url of img 
+top_img: false # false or url of img 
 
 post_meta:
   date_type: created # created or updated 
@@ -125,7 +125,7 @@ post_copyright:
 
 
 addThis:
-  enable: false
+    enable: fals:e
   #pubid: 
 
 disqus:
