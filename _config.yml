@@ -5,10 +5,10 @@ language: zh-Hans
 # Main menu navigation
 # ---------------
 menu:
-  Home: /
-  Archives: /archives
-  Tags: /tags
-  Categories: /categories
+  首页: /
+  档案: /archives
+  标签: /tags
+  分类: /categories
 
 # Favicon
 # ---------------
@@ -108,7 +108,7 @@ post_meta:
   tags: true
 
 wordcount:
-  enable: false
+  enable: true
 
 toc:
   enable: true
@@ -135,7 +135,7 @@ disqus:
 
 # Footer Settings
 # ---------------
-since: 2013
+since: 2017
 
 ICP:
   enable: false
